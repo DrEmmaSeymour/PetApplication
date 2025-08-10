@@ -86,5 +86,7 @@ H2 Console
 This project is licensed under the MIT License.
 
 Author: Dr. Emma Seymour
+
 📧 emmaseymour2027@gmail.com
+
 💼 LinkedIn | 🌐 www.linkedin.com/in/dr-emma-seymour
