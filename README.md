@@ -3,7 +3,7 @@
 A simple Spring Boot application demonstrating **Spring Data JPA**, **H2 in-memory database**, and **RESTful endpoints** for managing pet records.
 
 ---
-> **Note:** Most of my professional projects are proprietary and not publicly available. This repository features a representative code sample demonstrating my skills in Java, Spring Boot, and application architecture. Additional public projects will be added over time as they are prepared for sharing.
+> **Note:** Most of my professional projects are proprietary and not publicly available. This repository features a representative code sample demonstrating my skills in Java, Spring Boot, and application architecture. Additional public projects will be added over time as they are prepared for sharing. I am also working on getting my Zeebe orchestration proof-of-concept project uploaded, which showcases workflow automation and event-driven microservices architecture.
 
 
 ## 🚀 Features
